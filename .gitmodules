@@ -4,3 +4,6 @@
 [submodule "better-phrase"]
 	path = better-phrase
 	url = https://github.com/roseduan/better-phrase.git
+[submodule "jupyter-notebook-editor-skill"]
+	path = jupyter-notebook-editor-skill
+	url = https://github.com/narang99/jupyter-notebook-editor-skill.git
